@@ -1,2 +1,5 @@
 # hello-world
-First GitHub
+
+Greetings Electronic Universe!
+
+This is my first GitHub. Relatively new to coding and have been loving every minute!
